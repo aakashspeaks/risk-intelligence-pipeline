@@ -19,6 +19,14 @@ Put the report at `data/raw/VestasAnnualReport2025.pdf`.
 uv run risk-intel run data/raw/VestasAnnualReport2025.pdf --eval
 ```
 
+The same thing as a plain Python file call (no shortcut needed):
+
+```
+uv run python -m risk_intel.cli run data/raw/VestasAnnualReport2025.pdf --eval
+```
+
+No API key is needed: the default run uses rules only.
+
 Reads the PDF, runs stages 1 to 4, writes `data/output/VestasAnnualReport2025.risks.json`, and scores it
 against the golden set. Takes about 8.5 seconds. It exits with an error code if any gate fails.
 
