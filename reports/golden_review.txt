@@ -1,0 +1,29 @@
+======================================================================
+Geopolitics and regulatory framework  (page 51)
+
+IMPACT: Geopolitical tensions and regulatory shifts create uncertainty across global markets, which can disrupt and delay supply chains, and increase costs through tariffs and trade barriers. These dynamics may weaken project economics, reduce market volumes, and challenge Vestas’ ability to maintain cost efficiency and competitiveness.
+
+MITIGATION: We manage geopolitical risks by continuously monitoring global developments and implementing appropriate mitigations. By maintaining a global and regionalised manufacturing footprint, Vestas can effectively respond to geopolitical shifts and regulatory changes. Proactive advocacy ensures alignment and compliance with evolving policies and the regulatory climate. Additionally, we exercise commercial discipline and utilise indexation and financial hedging strategies to minimise exposure.
+
+golden must_mention_in_mitigation: ['regionalised manufacturing']
+golden forbidden_terms: ['cyber']
+
+======================================================================
+Project execution  (page 51)
+
+IMPACT: Challenges in project execution can lead to delays in delivery, cost overruns, and margin erosion, particularly as offshore projects grow in scale and complexity. Quality issues may result in formal disputes and reputational damage. These factors can undermine Vestas’ ability to secure new business, reduce investor confidence, and weaken long-term competitiveness in the global wind market.
+
+MITIGATION: We mitigate execution risks through project governance, enhanced planning functions, and continuous alignment between commercial and delivery teams. We invest in scalable manufacturing capacity and maintain close coordination with suppliers to secure timely component availability.
+
+golden must_mention_in_mitigation: ['project governance', 'planning']
+golden forbidden_terms: []
+
+======================================================================
+Cyber attacks  (page 51)
+
+IMPACT: Politically motivated cyber actors may seek to disrupt energy production. A cyber attack on Vestas may be designed to impact our customers’ operations, causing electricity outage and physical damage to assets. A successful cyber attack on Vestas’ energy solutions and our infrastructures might result in significant economic loss and reputational damage.
+
+MITIGATION: As a global manufacturer and key contributor to critical infrastructure, Vestas is required to continuously address evolving cyber risks, both to our company and to the customers we serve. We are developing cyber security services aimed at helping our customers navigate cyber risks effectively, fulfil industry requirements and standards, and uphold their responsibilities. During 2025, our cyber security efforts were effective and no critical cyber security incidents took place.
+
+golden must_mention_in_mitigation: []
+golden forbidden_terms: ['tariffs', 'sanctions']

@@ -1,0 +1,38 @@
+{
+  "report": "Vestas Annual Report 2025",
+  "governance": {
+    "review_frequency": "every six months",
+    "reviewed_by": ["Executive Management Team", "Board of Directors", "Audit Committee"],
+    "page": 50
+  },
+  "risks": [
+    {"id": "geopolitics-and-regulatory-framework", "title": "Geopolitics and regulatory framework", "tier": "principal", "kind": "risk", "category": "regulatory_geopolitical", "page": 51,
+     "must_mention_in_mitigation": ["regionalised manufacturing"], "forbidden_terms": ["cyber"]},
+    {"id": "project-execution", "title": "Project execution", "tier": "principal", "kind": "risk", "category": "operational", "page": 51,
+     "must_mention_in_mitigation": ["project governance", "planning"], "forbidden_terms": ["hedging", "indexation", "cyber"]},
+    {"id": "cyber-attacks", "title": "Cyber attacks", "tier": "principal", "kind": "risk", "category": "cyber", "page": 51,
+     "must_mention_in_mitigation": ["cyber security services", "navigate cyber risks", "critical infrastructure"], "forbidden_terms": ["tariffs", "sanctions"]},
+    {"id": "iro-low-emission-materials", "title": "Low-emission materials", "tier": "sustainability_iro", "kind": "opportunity", "category": "climate", "page": 71},
+    {"id": "iro-growth-rate-of-the-wind-industry", "title": "Growth rate of the wind industry", "tier": "sustainability_iro", "kind": "opportunity", "category": "market", "page": 71},
+    {"id": "iro-carbon-taxes-and-tariffs", "title": "Carbon taxes and tariffs", "tier": "sustainability_iro", "kind": "risk", "category": "climate", "page": 71},
+    {"id": "iro-recyclable-blades", "title": "Recyclable blades", "tier": "sustainability_iro", "kind": "opportunity", "category": "environmental", "page": 72},
+    {"id": "iro-cost-implication-of-injuries-in-own-workforce", "title": "Cost implication of injuries in own workforce", "tier": "sustainability_iro", "kind": "risk", "category": "health_safety", "page": 73},
+    {"id": "iro-cost-implications-of-injuries-to-contractors", "title": "Cost implications of injuries to contractors and sub-contractors", "tier": "sustainability_iro", "kind": "risk", "category": "health_safety", "page": 73},
+    {"id": "iro-fines-related-to-forced-or-child-labour", "title": "Fines related to forced or child labour", "tier": "sustainability_iro", "kind": "risk", "category": "human_rights", "page": 73},
+    {"id": "iro-insufficient-market-conditions", "title": "Insufficient market conditions", "tier": "sustainability_iro", "kind": "risk", "category": "market", "page": 74},
+    {"id": "iro-risk-of-corruption-and-bribery", "title": "Risk of corruption and bribery", "tier": "sustainability_iro", "kind": "risk", "category": "compliance_conduct", "page": 74}
+  ],
+  "merged_duplicates": [
+    {"principal": "cyber-attacks", "duplicate_title": "Cyber security risks", "duplicate_page": 74}
+  ],
+  "must_not_be_returned_as_risks": [
+    "Climate change adaptation impacts",
+    "Energy consumption-related risks and opportunities",
+    "Biodiversity-related risks and opportunities",
+    "Resource inflow-related risks and opportunities",
+    "Waste-related risks and opportunities",
+    "Secure employment-related risks and opportunities",
+    "Diversity-related risks and opportunities",
+    "Affected communities-related risks and opportunities"
+  ]
+}
